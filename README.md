@@ -11,3 +11,8 @@ app = Visualizer("My visualizer", 1920, 1080)
 
 app.run()
 ```
+
+## Created on:
+- Language: Python 3
+- Window manager: Pygame 2 (SDL2)
+- Renderer: OpenGL 3.3
